@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Shalanii, final year undergraduate at University of Ruhuna, Matara, Sri Lanka.
+- 👋 Hi, I’m @Shalanii!. I work as a backend engineer.
+- ✨I graduated from University of Ruhuna, Matara, Sri Lanka.
 - 👀 I’m interested in natural language processing, database management, and UI/UX.
 - 🌱 I’m currently learning NLP, advanced Python, and mathematical modeling for machine learning.
 - ✨ I enjoy solving algorithms, reading, and blogging.
